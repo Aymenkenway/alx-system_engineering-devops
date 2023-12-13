@@ -1,2 +1,2 @@
 #!/bin/bash
-ehco=$PATH:/action
+echo=$PATH:/action
